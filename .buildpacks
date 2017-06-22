@@ -1,1 +1,2 @@
-https://github.com/metabase/metabase-heroku
+https://github.com/heroku/heroku-buildpack-jvm-common
+https://github.com/metabase/metabase-buildpack
